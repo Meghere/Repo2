@@ -1,3 +1,9 @@
 [submodule "Common-Repo"]
 	path = Common-Repo
 	url = https://github.com/Meghere/Common-Repo.git
+[submodule "Repo2"]
+	path = Repo2
+	url = https://github.com/Meghere/Common-Repo2.git
+[submodule "Common-Repo2"]
+	path = Common-Repo2
+	url = https://github.com/Meghere/Common-Repo2.git
